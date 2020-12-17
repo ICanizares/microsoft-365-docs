@@ -77,7 +77,7 @@ Once the service is provisioned, it adds:
 *Microsoft 365 security center with incidents management and other Microsoft 365 Defender capabilities*
 
 ### Getting Microsoft Defender for Identity data
-To share Microsoft Defender for Identity data with Microsoft 365 Defender, ensure that Microsoft Cloud App Security and Microsoft Defender for Identity integration is turned on. [Learn more about this integration](https://docs.microsoft.com/cloud-app-security/aatp-integration)
+To share Microsoft Defender for Identity data with Microsoft 365 Defender, ensure that Microsoft Cloud App Security and Microsoft Defender for Identity integration is turned on. [Learn more about this integration](https://docs.microsoft.com/en-us/cloud-app-security/mde-integration)
 
 
 ## Get assistance
